@@ -87,3 +87,12 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# DS Store
+.DS_Store
+
+#.idea files
+.idea
+
+# Don't want you looking at my URIs now am I?
+constants.py 

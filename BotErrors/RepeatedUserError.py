@@ -1,0 +1,2 @@
+class RepeatedUserError(Exception):
+	pass

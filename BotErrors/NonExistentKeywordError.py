@@ -1,0 +1,2 @@
+class NonExistentKeywordError(Exception):
+	pass

@@ -1,0 +1,2 @@
+class RepeatedKeywordError(Exception):
+	pass
