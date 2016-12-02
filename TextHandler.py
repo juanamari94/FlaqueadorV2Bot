@@ -1,4 +1,4 @@
-from BotErrors import RepeatedKeywordError, NonExistentKeywordError
+from BotErrors import NonExistentKeywordError, RepeatedKeywordError
 from TextHandlerSetupStrings import phrases_map
 
 class TextHandler:

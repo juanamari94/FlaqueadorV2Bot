@@ -1,2 +1,0 @@
-class NonExistentEventError(Exception):
-	pass
